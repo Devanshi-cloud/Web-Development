@@ -1,5 +1,5 @@
 # Web-Development
-Web development learnings from https://scrimba.com/links/htmlandcss
+Web development learnings from https://scrimba.com/links/htmlandcss & 
 https://www.youtube.com/watch?v=a_iQb1lnAEQ&t=79s
 In this course on HTML and CSS, I've learned how to create and style web content. Starting with HTML, I gained an understanding of fundamental tags for structuring content, writing articles, and incorporating images. I learned about nesting elements and even experimented with modifying websites using HTML. Interactive elements like buttons and input tags were introduced, and I built a Google clone using these skills.
 

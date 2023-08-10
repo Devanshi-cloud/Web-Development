@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+.saffron {
+    background-color: orangered;
+    height: 100px;
+}
+
+.white {
+    background-color: aliceblue;
+    height: 100px;
+}
+
+.green {
+    background-color: green;
+    height: 100px;
+}

@@ -1,0 +1,12 @@
+.card{
+    background: blanchedalmond;
+    color: black;
+    width: 300px;
+    margin-top: 50px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    border: 8px solid brown;
+    border-radius: 30px;
+}

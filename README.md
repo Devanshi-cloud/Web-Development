@@ -1,6 +1,7 @@
 # Web-Development
 Web development learnings from https://scrimba.com/links/htmlandcss & 
-https://www.youtube.com/watch?v=a_iQb1lnAEQ&t=79s
+https://www.youtube.com/watch?v=a_iQb1lnAEQ&t=79s :
+
 In this course on HTML and CSS, I've learned how to create and style web content. Starting with HTML, I gained an understanding of fundamental tags for structuring content, writing articles, and incorporating images. I learned about nesting elements and even experimented with modifying websites using HTML. Interactive elements like buttons and input tags were introduced, and I built a Google clone using these skills.
 
 Transitioning to CSS, I delved into styling by setting widths, using margins and padding for spacing, and manipulating block and inline elements. I grasped the concept of CSS classes and applied various styles to elements, including borders, backgrounds, and fonts. Flexbox became a valuable tool for layout, enabling me to center content efficiently.
